@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	int n=379;
+	int n=371;
 	int sum=0,rem,i,temp;
 	temp=n;
 	while(i<n)

@@ -1,4 +1,4 @@
-// find maximum between two numbers
+ // find maximum between two numbers
 
 #include<iostream>
 using namespace std;
